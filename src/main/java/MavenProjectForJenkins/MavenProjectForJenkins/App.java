@@ -10,4 +10,10 @@ public class App
     {
         System.out.println( "For Jenkinss" );
     }
+    
+    public void newMethod()
+    {
+    	System.out.print("Checking new poll scm");
+    	
+    }
 }
